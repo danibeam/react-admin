@@ -1,3 +1,6 @@
+# React Admin using Google Sheets #
+You could find the [related post](https://medium.com/@ryan.mcnierney/using-react-google-sheets-as-your-cms-294c02561d59).
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
